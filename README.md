@@ -1,5 +1,5 @@
 
-# Women's Health Assistant Chatbot 💬💻
+# Women's Health Assistant Chatbot 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). The **Women's Health Assistant Chatbot** is an intelligent, AI-powered chatbot designed to help track, analyze, and provide personalized insights on women's health across various life stages.
 
