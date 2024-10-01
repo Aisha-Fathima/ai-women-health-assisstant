@@ -43,9 +43,8 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 ## 🖼️ Screenshots
 
 
-### Screenshots:
 &nbsp;
-* Chatbot Homepage*
+* Chatbot Homepage
 ![ss1](./screenshots/ss1.png)
 &nbsp;
 ![ss2](./screenshots/ss2.png)
