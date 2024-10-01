@@ -42,16 +42,16 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 ## 🖼️ Screenshots
 
-Include screenshots of the chatbot in action to provide a visual overview of the project. Place the screenshots in the `/screenshots` folder and reference them here.
 
-### Example Screenshot:
-![ss1](./screenshots/img1.png)
+### Screenshots:
+&nbsp
+* Chatbot Homepage*
+![ss1](./screenshots/ss1.png)
+&nbsp
+![ss2](./screenshots/ss2.png)
 
-*Label: Chatbot Homepage*
 
-You can add more screenshots as needed and label them accordingly.
 
----
 
 ## 🛠️ Deployment
 
