@@ -12,7 +12,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## 🌐 Try the Chatbot
 
-You can interact with the deployed chatbot by visiting the following link: [Women's Health Assistant Chatbot](#https://ai-women-health-assisstant.vercel.app/).
+You can interact with the deployed chatbot by visiting the following link: [Women's Health Assistant Chatbot](https://ai-women-health-assisstant.vercel.app/).
 
 ## 🚀 Getting Started
 
