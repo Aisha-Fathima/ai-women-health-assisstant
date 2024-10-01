@@ -18,14 +18,8 @@ You can interact with the deployed chatbot by visiting the following link: [Wome
 
 Follow these steps to run the project locally:
 
-1. **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/yourusername/Womens_Health_Assistant_chatbot.git
-   cd Womens_Health_Assistant_chatbot
-   ```
-
-2. **Install dependencies**:
+1. **Install dependencies**:
 
    ```bash
    npm install
@@ -33,7 +27,7 @@ Follow these steps to run the project locally:
    yarn install
    ```
 
-3. **Run the development server**:
+2. **Run the development server**:
 
    ```bash
    npm run dev
