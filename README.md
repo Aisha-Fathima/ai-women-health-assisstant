@@ -94,7 +94,7 @@ Here’s a visual guide to how the chatbot works:
 
 3. **Menstrual Health Support**  
    - Screenshot: The chatbot offering support for menstrual symptoms.
-   ![Menstrual Support](.images/ss27.png)
+   ![Menstrual Support](./images/ss27.png)
 
 4. **Mental Health Advice**  
    - Screenshot: The chatbot providing tips for mental well-being.
