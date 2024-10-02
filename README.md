@@ -126,8 +126,3 @@ We love contributions! Want to improve this chatbot or add new features? Here’
 ---
 
 
----
-
-This **interactive and engaging README** is focused on the chatbot’s medical assistance role. It covers **headache**, **menstrual health**, and **mental health support**, and the tech stack has been simplified to include **Google's Generative AI**, **Python**, **React**, and **Vercel**. You can add relevant screenshots where specified to provide a visual walkthrough.
-
-Let me know if you'd like any additional adjustments!
