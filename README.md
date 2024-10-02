@@ -85,19 +85,19 @@ Here’s a visual guide to how the chatbot works:
 
 1. **Chatbot UI**  
    - Screenshot: The friendly interface showing the chatbot ready to assist.
-   ![Chatbot UI](./screenshots/chatbot_ui.png)
+   ![Chatbot UI](./images/chatbot_ui.png)
 
 2. **Medical Assistance in Action**  
    - Screenshot: The chatbot responding to a headache-related query.
-   ![Medical Assistance](./screenshots/medical_assistance.png)
+   ![Medical Assistance](./images/medical_assistance.png)
 
 3. **Menstrual Health Support**  
    - Screenshot: The chatbot offering support for menstrual symptoms.
-   ![Menstrual Support](./screenshots/menstrual_support.png)
+   ![Menstrual Support](.images/menstrual_support.png)
 
 4. **Mental Health Advice**  
    - Screenshot: The chatbot providing tips for mental well-being.
-   ![Mental Health Advice](./screenshots/mental_health_advice.png)
+   ![Mental Health Advice](./images/mental_health_advice.png)
 
 Include the screenshots as shown to give users a clear understanding of how the chatbot functions.
 
